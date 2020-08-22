@@ -1,0 +1,12 @@
+D:\90_PESSOAL\80_Estudo\C#\CSharp_Intermediate\bin\Debug\netcoreapp3.1\S02_T01_Classes.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharp_Intermediate\bin\Debug\netcoreapp3.1\S02_T01_Classes.deps.json
+D:\90_PESSOAL\80_Estudo\C#\CSharp_Intermediate\bin\Debug\netcoreapp3.1\S02_T01_Classes.runtimeconfig.json
+D:\90_PESSOAL\80_Estudo\C#\CSharp_Intermediate\bin\Debug\netcoreapp3.1\S02_T01_Classes.runtimeconfig.dev.json
+D:\90_PESSOAL\80_Estudo\C#\CSharp_Intermediate\bin\Debug\netcoreapp3.1\S02_T01_Classes.dll
+D:\90_PESSOAL\80_Estudo\C#\CSharp_Intermediate\bin\Debug\netcoreapp3.1\S02_T01_Classes.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharp_Intermediate\obj\Debug\netcoreapp3.1\S02_T01_Classes.AssemblyInfoInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharp_Intermediate\obj\Debug\netcoreapp3.1\S02_T01_Classes.AssemblyInfo.cs
+D:\90_PESSOAL\80_Estudo\C#\CSharp_Intermediate\obj\Debug\netcoreapp3.1\S02_T01_Classes.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharp_Intermediate\obj\Debug\netcoreapp3.1\S02_T01_Classes.dll
+D:\90_PESSOAL\80_Estudo\C#\CSharp_Intermediate\obj\Debug\netcoreapp3.1\S02_T01_Classes.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharp_Intermediate\obj\Debug\netcoreapp3.1\S02_T01_Classes.genruntimeconfig.cache
